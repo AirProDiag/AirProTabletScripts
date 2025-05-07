@@ -74,7 +74,7 @@ while ($true) {
             $j2534Status = if ($dgDevice) {
                 "DG Connected"
             } elseif ($cardaqDevice) {
-                "Connected"
+                "Cardaq Connected"
             } else {
                 "Disconnected"
             }
