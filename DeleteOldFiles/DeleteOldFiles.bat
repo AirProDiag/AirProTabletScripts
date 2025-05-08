@@ -1,2 +1,2 @@
 @echo off
-PowerShell.exe -NoProfile -ExecutionPolicy Bypass -File "C:\Scripts\DeleteOldScans.ps1"
+PowerShell.exe -NoProfile -ExecutionPolicy Bypass -File "C:\Scripts\Utilities\DeleteOldScans.ps1"
