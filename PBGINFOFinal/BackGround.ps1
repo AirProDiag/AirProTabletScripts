@@ -86,7 +86,7 @@ while ($true) {
         }
 
         # TEXA Multihub check
-        $texaMultihubDevice = $devices | Where-Object { $_.Name -like "*TEXA Multihub Serial Gadget (COM5)*" -and $_.Status -eq 'OK' }
+        $texaMultihubDevice = $devices | Where-Object { $_.Name -like "*TEXA Multihub Serial Gadget*" -and $_.Status -eq 'OK' }
         $texaDevice = $devices | Where-Object { $_.Name -like "*TEXA Navigator Nano*" -and $_.Status -eq 'OK' }
         $usbSerialDevice = $devices | Where-Object { $_.Name -like "*USB Serial Device*" -and $_.Status -eq 'OK' }
 
