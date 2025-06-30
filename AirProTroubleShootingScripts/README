@@ -1,0 +1,5 @@
+Leave Zip files in this location. Automate Pulls the Zip Files from here and sends it to the tablets and unzips them in specific locations in the tablet. 
+All files that are compressed inside the Zip are also stored in the Folders here so you can see the scripts contents or if you need the desktop shortcuts or Custom Icon for the HubWipe Shortcut.
+If making ANY changes to the scripts you must update the Zips here with all the updates contents it needs
+  -TroubleShootingScripts.zip needs the Cardaq/DG on and off and Texa on and off Ps1 files inside of it (4 files that are sent to C/Scripts on the tablets)
+  -
