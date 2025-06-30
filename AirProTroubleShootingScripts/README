@@ -4,7 +4,7 @@ If making ANY changes to the scripts you must update the Zips here with all the 
     The Following two zips are used in the "Cardaq/Texa/DG Scripts and Icons Matt 6_26_2025" script on automate 
         -TroubleShootingScripts.zip needs the Cardaq/DG on and off and Texa on and off Ps1 files inside of it (4 files that are sent to C/Scripts on the tablets)
         -DesktopShortcuts.zip needs the TEXA ON and OFF shortcuts and J2534-ON and OFF shortcuts inside of it (4 files that are sent to the desktop after the old shortcuts are deleted by the script)
-    the Following two zips are used in the "Hubwipe Install Matt 6_27_25" script on automate.
+    The Following two zips are used in the "Hubwipe Install Matt 6_27_25" script on automate.
         -HubWipe.zip needs HubWipe.ps1 and Hubicon.ico inside of it (both files sent to C/Scripts)
         -HubWipeDesktopShortCut.zip needs the HUB WIPE shortcut inside of it (file gets sent to the desktop and installs the new shortcut). The shortcut's properties uses a custom icon that the Hubwipe.zip file puts in 
     the C/Scripts folder. Note that the "Hubwipe Install Matt 6_27_25" script does not delete any old icons since this is the first hubwipe icon being put on a tool. If putting on a tool for the second time I recommend
